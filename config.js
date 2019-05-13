@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://tinymini.netlify.com',
+  title: 'tinymini\'s archive',
+  subtitle: '공부할게 너무 많아서 만든 아카이즈',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'tinymini',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '공부. 공부 .. 공부 ...',
     contacts: {
-      email: '#',
+      email: 'tinymini.william@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'tinymini',
       rss: '#',
       vkontakte: '#'
     }
