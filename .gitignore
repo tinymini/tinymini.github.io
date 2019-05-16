@@ -2,6 +2,7 @@ node_modules/
 flow-typed/
 .cache/
 public/
+content/pages/private/
 npm-debug.log
 .eslintcache
 .gatsby-context.js
